@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>340883128619-d7e7t3glcu26rg1usstd3iuo7gfepejp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.340883128619-d7e7t3glcu26rg1usstd3iuo7gfepejp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>340883128619-v2jauo3sub73n62hbsl2tudveapgj19u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVXIXUvX-hsbiU4859QHT3rb3QoUMfgJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>340883128619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.womanNeedsApp</string>
+	<key>PROJECT_ID</key>
+	<string>woman-needs-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>woman-needs-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:340883128619:ios:fd5be1ba93c5d4a8fbc56e</string>
+</dict>
+</plist>

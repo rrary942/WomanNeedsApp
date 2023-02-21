@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340883128619",
+    "project_id": "woman-needs-app",
+    "storage_bucket": "woman-needs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340883128619:android:0fafbc63821fafadfbc56e",
+        "android_client_info": {
+          "package_name": "com.example.woman_needs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340883128619-v2jauo3sub73n62hbsl2tudveapgj19u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.woman_needs_app",
+            "certificate_hash": "82f27af886fc04456a29b883194e0c622b3dfbd7"
+          }
+        },
+        {
+          "client_id": "340883128619-f0tp2psdqvd79ujac1hea4inkpul89oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf17gek1-o5mDxCnYpclgdyeg6gaJ4ER0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340883128619-66nf8tvnobok76se4u5e0hs0tubag4ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
